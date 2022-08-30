@@ -41,9 +41,9 @@ finalGrade = GradeCalc(projMark, examMark)
 #Print the final mark and the final grade
 print('Final Mark:     |',finalGrade[0])
 print('Final Grade:    |',finalGrade[1])
+print(divider,'\n')
 
 #Testing
-print(divider,'\n')
 print('-=Test Cases=-\n')
 
 #Test 1

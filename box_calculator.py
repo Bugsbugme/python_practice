@@ -50,9 +50,9 @@ print('Medium boxes Used: |', answer[1])
 print('Small boxes Used:  |', answer[2])
 print(divider)
 print('Total boxes used:  |', answer[0] + answer[1] + answer[2])
+print(divider,'\n')
 
 #Testing
-print(divider,'\n')
 print('-=Test Cases=-\n')
 
 #Test 1

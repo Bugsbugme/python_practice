@@ -61,7 +61,7 @@ print('           ', dice, dice, dice)
 print(divider * 2)
 print('-=Instructions=-\nYour Bingo Card has 10 random numbers on it.\nSimply enter a number between 1 and 80.\nIf your number matches a number on the Bingo Card, it gets cleared from the card.\nKeep guessing until you clear the whole card.\nGLHF!', winFace)
 print(divider * 2)
-print('DEBUG:', bingoCard)
+# print('DEBUG:', bingoCard)
 print('Choose a number between 1 and 80: ', end="")
 
 # Get user input, validate it, and run it through the Number Checker
